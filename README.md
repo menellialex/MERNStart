@@ -1,4 +1,4 @@
-# MERNStarter
+# MERNStart
 Created by Alex Menelli
 Based on this Tutorial: https://www.youtube.com/watch?v=0osXx2oJu44 
 

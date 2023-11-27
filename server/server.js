@@ -6,7 +6,10 @@ const connectDB = require("./connectDB");
 const app = express();
 const PORT = process.env.port || 8000;
 
-connectDB();
+//this function is to connect to a MongoDB.
+//Commented out because i am not gonna share 
+//my URL =)
+//connectDB();
 app.use(cors());
 app.use(express.urlencoded( {extended: true} ));
 app.use(express.json());
